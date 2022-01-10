@@ -1,4 +1,4 @@
-package com.myapplication.navigationviewexpandablelistview;
+package com.myapplication.mpm;
 
 import org.junit.Test;
 

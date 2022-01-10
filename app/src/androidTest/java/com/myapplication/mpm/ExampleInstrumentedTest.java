@@ -1,4 +1,4 @@
-package com.myapplication.navigationviewexpandablelistview;
+package com.myapplication.mpm;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

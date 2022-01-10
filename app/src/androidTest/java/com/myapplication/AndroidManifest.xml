@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.myapplication.navigationviewexpandablelistview">
+    package="com.myapplication.mpm">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.myapplication.navigationviewexpandablelistview.MainActivity"
+            android:name="com.myapplication.mpm.MainActivity"
             android:label="UNPAD"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
